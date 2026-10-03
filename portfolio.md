@@ -1,6 +1,6 @@
 # My Portfolio
 
-## Google Cybersecurity Professional Certificate
+### Google Cybersecurity Professional Certificate
 
 # Project 1: 
 * [Conduct Security Audit](https://docs.google.com/document/d/1E8ZKeDe2dDl_C8luRTI2Z7j4sC5tGk4ef2iOzgtMS0E/edit?tab=t.0#heading=h.evidx83t54sc)
