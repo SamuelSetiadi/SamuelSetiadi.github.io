@@ -15,4 +15,4 @@ For five years, I troubleshot and maintained mission-critical aviation electroni
 * **Adaptive Problem-Solving:** Continuously seeking opportunities to learn through curiosity and adapting seamlessly to evolving digital threats.
 * **Clear Communication:** Excelling at analyzing complex challenges and fostering clear dialogue across teams to deliver thoughtful, principled solutions.
 
-📫 <strong>How to reach me:</strong> <a href="https://www.linkedin.com/in/samuel-setiadi-4bb180168/">LinkedIn</a>
+📫 **How to reach me:** <https://www.linkedin.com/in/samuel-setiadi-4bb180168/>
