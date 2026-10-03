@@ -1,3 +1,5 @@
+* samuelsetiadi.github.io
+
 # Hi, I'm Samuel 👋
 
 ### 🛡️ Aspiring Cybersecurity Professional | Former Aviation Electronics Technician
