@@ -5,5 +5,5 @@
 header img {
   max-width: 200px; /* Lower this number to make the picture smaller */
   display: block;
-  margin: 0 auto 20px auto;
+  margin: 0 0 20px 0; /* This moves it to the left */
 }
