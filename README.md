@@ -1,4 +1,4 @@
-* samuelsetiadi.github.io
+# samuelsetiadi.github.io
 
 # Hi, I'm Samuel 👋
 
