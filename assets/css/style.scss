@@ -1,0 +1,10 @@
+---
+---
+@import "{{ site.theme }}";
+
+header img {
+  max-width: 150px;       /* Changes the size. Adjust this number if needed */
+  border-radius: 50%;     /* Optional: Makes the picture a circle! Delete this line if you want to keep it square */
+  display: block;
+  margin: 0 auto 20px auto; /* Centers the image perfectly */
+}
