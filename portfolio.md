@@ -1,3 +1,12 @@
+<style>
+  header {
+    display: none !important;
+  }
+  /* Optional: Make the main content take up the full width */
+  section {
+    width: 100% !important;
+  }
+</style>
 <a href="index.html" class="back-button">← Back to Home</a>
 
 # My Portfolio
