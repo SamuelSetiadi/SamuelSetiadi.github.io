@@ -1,8 +1,7 @@
-<style>
-  header img {
-    display: none !important;
-  }
-</style>
+---
+layout: default
+title: My Portfolio
+---
 <a href="index.html" class="back-button">← Back to Home</a>
 
 # My Portfolio
